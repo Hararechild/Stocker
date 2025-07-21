@@ -1,0 +1,1 @@
+base64 -d Stocker-Updated.zip.base64 > Stocker-Updated.zip

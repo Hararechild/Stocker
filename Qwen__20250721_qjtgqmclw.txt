@@ -1,0 +1,24 @@
+Stocker/
+├── backend/
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── Dockerfile
+│   └── instance/
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── store.js
+│   │   ├── features/
+│   │   ├── pages/
+│   │   ├── auth/
+│   │   ├── __tests__/
+│   ├── package.json
+│   ├── Dockerfile
+│   └── build/
+├── Procfile
+├── docker-compose.yml
+├── .github/
+│   └── workflows/
+│       └── deploy.yml
+└── README.md
